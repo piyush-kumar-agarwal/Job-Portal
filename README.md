@@ -8,13 +8,11 @@ Check out the live demo of our Job Portal Website: [https://work-buzz.netlify.ap
 
 ## Review
 
-![w1](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/965e6c57-6562-4a18-af4e-69fe368b88f6)
-
 ![w2](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/32ecf906-046b-49aa-98a8-fd98d793bd8a)
 
 ![w6](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/b894f90c-4e97-493a-9061-f396af1ee46a)
 
-
+![w1](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/965e6c57-6562-4a18-af4e-69fe368b88f6)
 
 ## Table of Contents
 
