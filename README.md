@@ -6,6 +6,16 @@ A comprehensive Job Portal website designed to connect employers with potential 
 
 Check out the live demo of our Job Portal Website: [https://work-buzz.netlify.app](https://work-buzz.netlify.app)
 
+## Review
+
+![w1](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/965e6c57-6562-4a18-af4e-69fe368b88f6)
+
+![w2](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/32ecf906-046b-49aa-98a8-fd98d793bd8a)
+
+![w6](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/b894f90c-4e97-493a-9061-f396af1ee46a)
+
+
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -217,3 +227,15 @@ JWT_SECRET=your_jwt_secret
 
 
 ```
+
+![w3](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/50ea6672-fb38-47b2-b65a-e7ff0e34eb5a)
+
+![w4](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/44c6570a-96fc-420e-800e-66dcf31046a7)
+
+![w5](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/732eae42-f464-487b-a46f-42950980e5e2)
+
+![w7](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/8ceca35e-2490-4ae1-abe8-b860051f1752)
+
+![w8](https://github.com/piyush-kumar-agarwal/Job-Portal/assets/91564225/467f70e4-f41f-4fa5-8398-dbaa4d2bea8f)
+
+
